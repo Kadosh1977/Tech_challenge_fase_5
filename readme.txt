@@ -1,6 +1,6 @@
-📊 Tech Challenge — Sentiment Analysis of Financial Complaints
+📊 Datathon — Sentiment Analysis of Financial Complaints
 🧠 Classificação de Reclamações Financeiras com NLP e Deep Learning
-Este projeto foi desenvolvido como parte do Tech Challenge, integrando conceitos de Análise Exploratória de Dados (EDA), Processamento de Linguagem Natural (NLP) e Deep Learning.
+Este projeto foi desenvolvido como parte do Datathon, integrando conceitos de Análise Exploratória de Dados (EDA), Processamento de Linguagem Natural (NLP) e Deep Learning.
 O foco é a classificação automática do sentimento de reclamações financeiras (positivo ou negativo), bem como a identificação das principais dores dos clientes por categoria de produto financeiro, utilizando dados reais do Consumer Financial Protection Bureau (CFPB).
 
 🎯 Objetivos
