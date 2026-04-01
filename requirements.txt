@@ -1,22 +1,10 @@
-# Core
-python>=3.9
-
-# Data manipulation
-pandas>=1.5.0
-numpy>=1.23.0
-
-# Visualization
-matplotlib>=3.6.0
-seaborn>=0.12.0
-
-# NLP
-nltk>=3.8.1
-
-# Machine Learning
-scikit-learn>=1.2.0
-
-# Deep Learning
-tensorflow>=2.12.0
-
-# Utilities
-joblib>=1.2.0
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+requests
+wordcloud
+tensorflow
+joblib
